@@ -1,0 +1,118 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body
+{
+  background: #fff;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Poppins";
+}
+.container
+{
+  
+  max-width: 380px;
+  margin: auto;
+  margin-top: 100px;
+  background:#64b5f6;
+  text-align: center;
+  border-radius: 20px;
+  padding: 40px;
+  color: #fff;
+  box-sizing: border-box;
+}
+h2
+{
+  color: #000;
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+input
+{
+  width: 100%;
+  margin: 10px 0; 
+  outline: none;
+  background-color:transparent;
+  color: #fff ;
+  padding: 10px 6px;
+  font-size: 18px;
+  font-weight: bold;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 1px solid #fff;
+}
+button
+{
+  width: 70%;
+  border: 1px solid rgba(0,0,0,0.1);
+  margin: 20px;
+  color:#fff;
+  background:rgba(0,0,0,0.7);
+  font-size: 1.2rem;padding: 5px;
+  cursor: pointer;
+  transition: .9s;
+  transform: scale(1);
+  border-radius: 15px;
+}
+input
+{
+  font-family: "Poppins";
+  font-weight: lighter;
+  color: #000;
+  
+}
+small
+{
+  color: black;
+  font-weight: bold;
+}
+img
+{
+  
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  text-align: center;
+}
+.versus
+{
+  color: #000;
+  font-family:ALGERIAN ;
+  font-style: italic;
+ 
+}
+.vs
+{
+  font-size: 2rem;
+  margin: auto;
+  
+}
+.actu
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+h6
+{
+  font-style: italic;
+  font-family: ALGERIAN;
+  color: #000;
+  font-size: 2.5rem;
+}
+h3 
+{
+  font-family: ALGERIAN;
+  font-size: 1rem;
+  color: #000;
+}
+h4
+{
+  font-family: ALGERIAN;
+  font-size: 1.3rem;
+  color: #000;
+  text-decoration: underline;
+}

@@ -1,0 +1,49 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+.container
+{
+  
+  max-width: 380px;
+  margin: auto;
+  margin-top: 100px;
+  background:#64b5f6;
+  text-align: center;
+  border-radius: 20px;
+  padding: 40px;
+  color: #fff;
+  box-sizing: border-box;
+}
+a
+{
+  text-decoration: none;
+}
+img
+{
+  height: 130px;
+  width: 130px;
+  border-radius:50%;
+}
+h4
+{
+  color: black;
+}
+i
+{
+  color: black;
+}
+h2
+{
+  color: black;
+}
+span
+{
+  color: black;
+}
+a
+{
+  text-decoration: none;
+}
